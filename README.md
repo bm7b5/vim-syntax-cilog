@@ -32,6 +32,4 @@ and,
 in vim command line.
 
 ##Screenshot
-<img src="./sample.png"/>
-
-
+![sample.png](https://bitbucket.org/repo/L7oBx4/images/1835232834-sample.png)
