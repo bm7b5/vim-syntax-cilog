@@ -18,18 +18,14 @@ $ ./install.sh
 
 ## Colorscheme
 
-If you have only default colorschemes, try [bubblegum](https://github.com/baskerville/bubblegum)
+The colors are depend on your colorscheme.
 
-To use it,
+You can change your colorscheme with,
 
-    $ ./install_colorscheme.sh
-
-
-and,
-
-    :set t_Co=256
     :colorscheme bubblegum
 in vim command line.
+
+If you have only default colorscheme, try [bubblegum](https://github.com/baskerville/bubblegum).
 
 ##Screenshot
 ![sample.png](https://bitbucket.org/repo/L7oBx4/images/1835232834-sample.png)
