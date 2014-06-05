@@ -12,7 +12,7 @@ $ ./install.sh
 
 ## Features
 
-- Highlight colomns
+- Highlight columns
 - Highlight Error, Fail, Warning level keywords
 - Highlight values in brackets.
 
